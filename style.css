@@ -40,7 +40,7 @@ body {
 }
 
 .site-content {
-  background-image: url("city.jpg");
+  background-image: url("assets/city.jpg");
   background-attachment: fixed;
   background-size: cover;
 }
@@ -115,7 +115,7 @@ body {
 /* Section 2 */
 
 .section-2 .container-fluid {
-  background-image: url("section_2.jpg");
+  background-image: url("assets/section_2.jpg");
   background-size: cover;
   background-attachment: fixed;
 }
